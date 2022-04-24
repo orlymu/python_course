@@ -1,4 +1,5 @@
 from random import randint
+print("hello")
 
 grades=[]
 num_of_grades=int(input("enter number of grades: "))
